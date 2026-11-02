@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crisnahine.github.io/rails-ai-context/sitemap.xml
