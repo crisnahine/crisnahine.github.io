@@ -1,0 +1,14 @@
+# Cris Nahine
+
+> AI engineer and senior Ruby on Rails developer. Builds MCP servers, Claude Code plugins and code search that give AI coding agents (Claude Code, Cursor, GitHub Copilot, Codex) real context about a codebase.
+
+## Projects
+
+- [rails-ai-context](https://crisnahine.github.io/rails-ai-context/): Rails MCP server. A Ruby gem with 35 read-only tools for a Rails app's real schema, models, routes, controllers and views. Listed in the MCP Registry.
+- [anatomiya](https://github.com/crisnahine/anatomiya): Claude Code plugin that teaches an agent a repository's house rules from its code and git history, in nine languages. 542 of 560 measured sessions reused the existing helper, against 291 of 560 without it.
+- [chameleon](https://github.com/crisnahine/chameleon): derives a codebase's conventions and feeds them into AI-generated code for TypeScript, JavaScript, Ruby and Python.
+
+## Profiles
+
+- [GitHub](https://github.com/crisnahine)
+- [LinkedIn](https://linkedin.com/in/cjnahine05)
