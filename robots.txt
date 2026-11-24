@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://crisnahine.github.io/sitemap.xml
 Sitemap: https://crisnahine.github.io/rails-ai-context/sitemap.xml
+Sitemap: https://crisnahine.github.io/claude-code-model-router/sitemap.xml
